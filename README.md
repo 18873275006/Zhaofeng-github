@@ -8,3 +8,5 @@ Zhaofeng的第一个github仓库，用来学习 Git 和 GitHub。
 - 熟悉 GitHub 基础操作
 - 学习提交修改 commit
 - 练习使用 Copilot
+
+在mac本地第一次修改文件！
